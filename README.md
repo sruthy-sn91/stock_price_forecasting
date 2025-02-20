@@ -7,7 +7,7 @@ using daily historical data retrieved from Yahoo Finance. It includes:
 - Transformer model definition in PyTorch
 - Training loop with validation
 - Inference script for generating predictions
-- (Optional) Streamlit app for a simple GUI
+- Streamlit app for a simple GUI
 
 ## Getting Started
 
